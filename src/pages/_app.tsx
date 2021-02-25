@@ -9,7 +9,7 @@ function MyApp({ Component, pageProps }) {
     
     <ChallengesProvider>
       <Component {...pageProps} />
-    </ChallengesProvider>    
+    </ChallengesProvider>
         
   )
 }
